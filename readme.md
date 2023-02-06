@@ -1,4 +1,5 @@
-Hi!
+# Hi!
+
 My name is Austin Nicholas Tham, im currently a second-year IT Student at Pradita University.
 
 
