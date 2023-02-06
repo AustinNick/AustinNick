@@ -1,6 +1,9 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/46616395?v=4" width="150" style="border-radius: 100%;"/>
+  <kbd>
+    <img src="https://avatars.githubusercontent.com/u/46616395?v=4" width="150" style="border-radius:50%"/>
+  </kbd>
   
+  </br>
   </br>
   
   <img src="https://komarev.com/ghpvc/?username=AustinNick&style=flat-square&color=blue" alt=""/>
