@@ -1,5 +1,4 @@
 # Hi everyone 🖐️
-![alt text](https://komarev.com/ghpvc/?username=AustinNick&style=flat-square&color=blue)
 
 My name is Austin Nicholas Tham, 20 yo. Im currently a second-year IT Student at Pradita University.
 
